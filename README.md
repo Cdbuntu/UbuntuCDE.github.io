@@ -1,3 +1,4 @@
 ## Ubuntu CDE 
-#### Created by Jaoheah / Joey Schaff
-### an Ubuntu Remix with the Common Desktop Envrioment installed. 
+an Ubuntu Remix with the Common Desktop Envrioment installed.
+Created by Jaoheah / Joey Schaff with huge help from Kai, Lead Developer of Ubuntu Lumina. 
+ 
